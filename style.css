@@ -1,0 +1,61 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.nav-item a {
+    font-size: 15px;
+    font-weight: 500;
+    color: #444444;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    margin-left: 7px;
+}
+
+#about {
+    padding: 60px 0px;
+}
+
+#about h1 {
+    font-weight: 900;
+    font-size: 34px;
+    margin-top: 60px;
+    padding: 5px 0px;
+}
+
+#products h1 {
+    font-weight: 900;
+    font-size: 34px;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+.footerHolder h3 {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.footerHolder .footerContactList {
+    font-size: 15px;
+    line-height: 17px;
+    color: #707070;
+}
+
+.footerHolder .footerContactList .email .icon {
+    font-size: 12px;
+}
+
+.footerHolder .followSocailNetwork {
+    font-size: 15px;
+    line-height: 18px;
+    color: #444444;
+}
+
+.footerHolder .followSocailNetwork a {
+    color: #808080;
+}
+
+.footerHolder .footerNavList a {
+    color: #707070;
+}
