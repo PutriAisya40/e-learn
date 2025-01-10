@@ -358,12 +358,6 @@ if (isset($_POST['editProfile'])) {
         </div>
     </div>
 
-    <footer class="footer" style="background-color: #374780; color: #ffffff; padding: 10px 0; text-align: center; width: 100%;">
-        <div class="container">
-            <span>&copy; <?php echo date("Y"); ?> e-Learning. N2Y - Novia Yenny Nanda.</span>
-        </div>
-    </footer>
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
