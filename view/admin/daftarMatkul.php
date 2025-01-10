@@ -224,12 +224,6 @@ if (isset($_POST['editProfile'])) {
         </div>
     </div>
 
-    <footer class="footer" style="background-color: #374780; color: #ffffff; padding: 10px 0; text-align: center; width: 100%;">
-        <div class="container">
-            <span>&copy; <?php echo date("Y"); ?> e-Learning. N2Y - Novia Yenny Nanda.</span>
-        </div>
-    </footer>
-
     <div class="modal fade" id="editProfile" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
