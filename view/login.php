@@ -81,6 +81,9 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
             </div>
         </div>
     </div>
+    <footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color:rgb(0, 8, 16); color:rgb(243, 244, 245); font-size: 14px; border-top: 1px solid #ddd;">
+        COPYRIGHT &copy; 2025 e-Learning. Nanda Novia. All rights reserved.
+    </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
