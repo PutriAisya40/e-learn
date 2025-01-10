@@ -10,4 +10,4 @@ if(!$connection){
     die("Can't connect to database: ".mysqli_connect_error());
 }
 //echo "Connected Successfully";
-?>  
+?>
