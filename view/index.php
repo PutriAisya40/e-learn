@@ -139,6 +139,9 @@
             </div>
         </div>
     </aside>
+    <footer style="text-align: center; padding: 10px; background-color:rgb(0, 3, 5); color:rgb(241, 243, 245); font-size: 14px; border-top: 1px solid #ddd;">
+        COPYRIGHT &copy; 2025 e-Learning. Nanda Novia.
+    </footer>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
